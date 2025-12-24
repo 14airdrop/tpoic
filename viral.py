@@ -20,7 +20,7 @@ keywords = [
 "financial education", "financial independence", "economy", "money secrets banks hide", "banking system explained", 
 "finance", "investing", "rules of money", "financial confidence", 
 "rules of finance", "personal finance", "financial independence", 
-"how to quit your job in 10 years", "finance manager "Financial Planners", 
+"", "finance manager "", 
 "money", "investing tips for beginners", "stock market bubble", "growth investing", 
 "growth investing"
 ]
