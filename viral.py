@@ -19,8 +19,7 @@ keywords = [
  "money management", "money strategist", "rich", "compounding for beginners", 
 "financial education", "financial independence", "economy", "money secrets banks hide", "banking system explained", 
 "finance", "investing", "rules of money", "financial confidence", 
-"rules of finance", "personal finance", "financial independence", 
-"", "finance manager "", 
+"rules of finance", "personal finance", "financial independence",  
 "money", "investing tips for beginners", "stock market bubble", "growth investing", 
 "growth investing"
 ]
